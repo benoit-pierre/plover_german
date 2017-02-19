@@ -196,3 +196,6 @@ KEYMAPS = {
         'no-op': ('X1-', 'X2-', 'X3'),
     },
 }
+
+DICTIONARIES_ROOT = None
+DEFAULT_DICTIONARIES = ()
